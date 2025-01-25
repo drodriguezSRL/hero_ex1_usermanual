@@ -1,6 +1,13 @@
 # HERO Explorer 1 Rover - User Manual
 
-The following contains all files related to EX1 User Manual.
+This repo contains all files related to EX1 User Manual.
+
+You can also access from here all related repositories containing:
+
+* [High-level control software](https://github.com/drodriguezSRL/hero_ex1_sw)
+* [NavMast control software](https://github.com/drodriguezSRL/hero_ex1_navmast)
+* [Low-level control software](https://github.com/drodriguezSRL/hero_ex1_hibot)
+* [Service Module design files](https://github.com/drodriguezSRL/hero_ex1_svm)
 
 ## Versioning
 
